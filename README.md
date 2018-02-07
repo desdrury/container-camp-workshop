@@ -1,6 +1,7 @@
 # Container Camp Workshop Proposal
 
 Title: **Advanced CI/CD with Brigade**
+
 Level: Advanced
 
 **Abstract**
@@ -24,9 +25,9 @@ If participants want to leave with their own implementation of the CI/CD platfor
 
 I am a passionate technologist with many years of experience in all aspects of datacentre infrastructure, automation, programming languages and developer workflows. 
 
-• A co-organiser of the [Melbourne Kubernetes Meetup](melbkubernetes.org);
-• Author of [Open Datacentre](opendatacentre.io), a Kubernetes distribution with numerous datacentre workloads;
-• A Kubernetes evangelist since the early days of its release.
+* A co-organiser of the [Melbourne Kubernetes Meetup](melbkubernetes.org);
+* Author of [Open Datacentre](opendatacentre.io), a Kubernetes distribution with numerous datacentre workloads;
+* A Kubernetes evangelist since the early days of its release.
 
 **Tutorial examples**
 
